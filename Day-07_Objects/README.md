@@ -1,5 +1,7 @@
 # 30_Days_of_JavaScript_Challenge
 
+![alt text](code.png)
+
 # Day 7: Objects
 
 --Tasks/Activities:
