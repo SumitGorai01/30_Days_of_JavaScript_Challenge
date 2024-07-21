@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation</title>
+
+    <style>
+        div {
+            margin: 2rem;
+            padding: 2rem;
+            border: 2px solid red;
+        }
+
+        button {
+            background-color: blueviolet;
+            border-radius: 5px;
+            margin: 1rem;
+            padding: .5rem;
+        }
+
+        img {
+            height: 500px;
+            width: 500px;
+        }
+
+        .boldText {
+            background-color: purple;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Task 1: Select an HTML element by its ID and change its text content. -->
+    <div>
+        <p id="changeText">This is original text.</p>
+        <button onclick="changeText()">Change Text</button>
+    </div>
+    <hr>
+    <!-- Task 2: Select an HTML element by its class and change its background color. -->
+    <div>
+        <div class="myDiv">First Div</div>
+        <div class="myDiv">Second Div</div>
+        <button onclick="changeBgColor()">Change Background color</button>
+    </div>
+
+    <!-- Task 3: Create a new div element with some text content and append it to the body. -->
+
+    <button onclick="addNewDiv()">Append New Div</button>
+
+    <hr>
+    <!-- Task 4: Create a new li element and add it to an existing ul list. -->
+    <div>
+        <ul>
+            <button onclick="addNewLiList()">Add List </button>
+            <li>This is existing list</li>
+        </ul>
+    </div>
+    <hr>
+
+    <!-- Task 5: Select an HTML element and remove it from the DOM. -->
+    <div>
+        <p id="removePara">Remove This Paragraph</p>
+        <button onclick="removeElement()">Click to Remove </button>
+    </div>
+    <hr>
+    <!-- Task 6: Remove the last child of a specific HTML element. -->
+    <div id="parentElement">
+        <button onclick="removeLastElement()">Remove Last Paragraph</button>
+        <p>First Paragraph</p>
+        <p>Second Paragraph</p>
+        <p>Third Paragraph</p>
+        <p>Fourth Paragraph</p>
+    </div>
+
+
+    <!-- Task 7: Select an HTML element and change one of its attributes (e.g., src of an img tag). -->
+    <div>
+        <img src="./img1.webp" class="image1" />
+        <button onclick="changeImage()">Change iamge</button>
+    </div>
+
+
+    <!-- Task 8: Add and remove a CSS class to/from an HTML element. -->
+    <div>
+        <p id="myParagraph">Hello , My name is Sumit</p>
+        <button onclick="addClass()">Add Class</button>
+        <button onclick="removeClass()">Remove Class</button>
+    </div>
+    <!-- Task 9: Add a click event listener to a button that changes the text content of a paragraph. -->
+    <div>
+        <p id="changePara">This is original Paragraph.</p>
+        <button onclick="changePara()">Change Paragraph</button>
+    </div>
+
+
+    <!-- Task 10: Add a mouseover event listener to an element that changes its border color. -->
+    <div>
+        <div class="myDiv">First Div</div>
+        <div class="myDiv">Second Div</div>
+        <button onmouseover="changeBgColor()">Hover me to change Background color</button>
+    </div>
+</body>
+
+</html>
+<script src="./02_Day9.js"></script>
