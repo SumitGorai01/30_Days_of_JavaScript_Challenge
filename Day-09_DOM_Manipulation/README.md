@@ -1,5 +1,9 @@
 # 30_Days_of_JavaScript_Challenge
 
+![alt text](code.png)
+
+![alt text](code2.png)
+
 # Day 9: DOM Manipulation
 
 # Tasks/Activities:
