@@ -1,5 +1,7 @@
 # 30_Days_of_JavaScript_Challenge
 
+![alt text](code.png)
+
 # Day 10 :- Event Handling
 
 Tasks | Activities
