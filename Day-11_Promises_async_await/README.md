@@ -8,9 +8,8 @@
 
 **Activity 1: Understanding Promises**
 
-**Task 1:** Create a promise that resolves with a message after a 2-second timeout and log the message to the console.
-
-**Task 2:** Create a promise that rejects with an error message after a 2-second timeout and handle the error using `.catch()`.
+ - **Task 1:** Create a promise that resolves with a message after a 2-second timeout and log the message to the console.
+ - **Task 2:** Create a promise that rejects with an error message after a 2-second timeout and handle the error using `.catch()`.
 
 <hr/>
 
@@ -22,25 +21,22 @@
 
 **Activity 3: Using Async/Await**
 
-**Task 4:** Write an async function that waits for a promise to resolve and then logs the resolved value.
-
-**Task 5:** Write an async function that handles a rejected promise using try-catch and logs the error message.
+- **Task 4:** Write an async function that waits for a promise to resolve and then logs the resolved value.
+- **Task 5:** Write an async function that handles a rejected promise using try-catch and logs the error message.
 
 <hr/>
 
-**Activity 4: Fetching Data from an API**
+ **Activity 4: Fetching Data from an API**
 
-**Task 6:** Use the `fetch` API to get data from a public API and log the response data to the console using promises.
-
-**Task 7:** Use the `fetch` API to get data from a public API and log the response data to the console using async/await.
+- **Task 6:** Use the `fetch` API to get data from a public API and log the response data to the console using promises.
+- **Task 7:** Use the `fetch` API to get data from a public API and log the response data to the console using async/await.
 
 <hr/>
 
 **Activity 5: Concurrent Promises**
 
-**Task 8:** Use `Promise.all` to wait for multiple promises to resolve and then log all their values.
-
-**Task 9:** Use `Promise.race` to log the value of the first promise that resolves among multiple promises.
+- **Task 8:** Use `Promise.all` to wait for multiple promises to resolve and then log all their values.
+- **Task 9:** Use `Promise.race` to log the value of the first promise that resolves among multiple promises.
 
 <hr/>
 
