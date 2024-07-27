@@ -1,5 +1,7 @@
 ### 30_Days_of_JavaScript_Challenge
 
+![Day 15](code.png)
+
 ## Day 15: Closures☕🚀
 
 ## Tasks/Activities:✅
