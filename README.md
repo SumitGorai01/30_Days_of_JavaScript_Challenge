@@ -7,9 +7,9 @@
 
 ### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner and detailed Solutions of the challenges._
 
-+ -------- + ------------------------------------------------------------------- +
+---------------------------------------------------------------------------------
 | Days     | Topics                                                              |
-+ -------- + ------------------------------------------------------------------- +
+---------------------------------------------------------------------------------
 | Day-00   | [Introduction 📑](./README.md)                                      |
 | Day-01   | [Variables and Data Types 🍵👨‍💻](./Day-01_Variable)                 |
 | Day-02   | [Operators 🍵👨‍💻](./Day-02_Operators)                               |
