@@ -1,10 +1,15 @@
+<div align="center">
+
 ### 30-Days_JavaScript_Challange🚀🍵
 
 ## **Instructor - Hitesh Choudhary sir🙇‍♂️**
 
 - **Connect with me** - [LinkedIn😎](https://www.linkedin.com/in/sumitgorai01/)
 
-<img src="./pic.webp" height="100%" width="100%"/>
+</div>
+
+
+<img src="./pic.webp" height="80%" width="100%"/>
 
 ### _[30 Days Of JavaScript Challenge](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes  of 30 Days of JavaScript Challenge with Organized manner and detailed Solutions of the challenges._
 
