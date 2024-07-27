@@ -5,7 +5,7 @@
 - **Connect with me** - [LinkedIn😎](https://www.linkedin.com/in/sumitgorai01/)
 
 
-### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner and detailed Solutions of the challenges._
+### _[30 Days Of JavaScript Challenge](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes  of 30 Days of JavaScript Challenge with Organized manner and detailed Solutions of the challenges._
 
 
 | Days     | Topics                                                             |
