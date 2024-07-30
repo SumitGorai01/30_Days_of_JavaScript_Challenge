@@ -32,3 +32,6 @@
 | Day-13   | [Modules 🍵👨‍💻](./Day-13_Modules)                                   |
 | Day-14   | [Classes 🍵👨‍💻](./Day-14_Classes)                                   |
 | Day-15   | [Closures 🍵👨‍💻](./Day-15_Closures)                                 |
+| Day-16   | [Recursions 🍵👨‍💻](./Day-16_Recursion/)                             |
+| Day-17   | [Data Structures 🍵👨‍💻](./Day-17_Data_Structures/)                  |
+| Day-18   | [Algorithms 🍵👨‍💻](./Day-18_Algorithms/)                            |
