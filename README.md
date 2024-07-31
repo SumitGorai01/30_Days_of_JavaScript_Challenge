@@ -35,3 +35,4 @@
 | Day-16   | [Recursions 🍵👨‍💻](./Day-16_Recursion/)                             |
 | Day-17   | [Data Structures 🍵👨‍💻](./Day-17_Data_Structures/)                  |
 | Day-18   | [Algorithms 🍵👨‍💻](./Day-18_Algorithms/)                            |
+| Day-19   | [Regular Expression 🍵👨‍💻](./Day-19_Regular_Expression/Day19.js/)   |
