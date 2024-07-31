@@ -1,5 +1,7 @@
 ### 30_Days_of_JavaScript_Challenge
 
+![Day 19 code](code.png)
+
 # Day-19 : Regular Expressions 🍵👨‍💻
 
 ## Tasks | Activities 🌟
