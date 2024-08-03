@@ -36,3 +36,6 @@
 | Day-17   | [Data Structures 🍵👨‍💻](./Day-17_Data_Structures/)                  |
 | Day-18   | [Algorithms 🍵👨‍💻](./Day-18_Algorithms/)                            |
 | Day-19   | [Regular Expression 🍵👨‍💻](./Day-19_Regular_Expression/Day19.js/)   |
+| Day-20   | [LocalStorage and SessionStorage 🍵👨‍💻](./Day-20_LocalStorage_and_SessionStorage/)|
+| Day-21   | [Leet Code Easy 🍵👨‍💻](./Day-21_Leetcode%20Easy/)   |
+| Day-22   | [Leet Code Medium 🍵👨‍💻](./Day-22_Leetcode_Medium/)   |
