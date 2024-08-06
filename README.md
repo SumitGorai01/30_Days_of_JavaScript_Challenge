@@ -9,7 +9,7 @@
 </div>
 
 
-<img src="./pic.webp" height="60%" width="100%"/>
+<img src="./pic.webp" height="40%" width="100%"/>
 
 ### _[30 Days Of JavaScript Challenge](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes  of 30 Days of JavaScript Challenge with Organized manner and detailed Solutions of the challenges._
 
