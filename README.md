@@ -9,7 +9,7 @@
 </div>
 
 
-<img src="./pic.webp" height="80%" width="100%"/>
+<img src="./pic.webp" height="60%" width="100%"/>
 
 ### _[30 Days Of JavaScript Challenge](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes  of 30 Days of JavaScript Challenge with Organized manner and detailed Solutions of the challenges._
 
@@ -39,3 +39,6 @@
 | Day-20   | [LocalStorage and SessionStorage 🍵👨‍💻](./Day-20_LocalStorage_and_SessionStorage/)|
 | Day-21   | [Leet Code Easy 🍵👨‍💻](./Day-21_Leetcode%20Easy/)   |
 | Day-22   | [Leet Code Medium 🍵👨‍💻](./Day-22_Leetcode_Medium/)   |
+| Day-23   | [Leet Code Hard 🍵👨‍💻](./Day-23_Leetcode_Hard/)   |
+| Day-24   | [Leet Code Medium 🍵👨‍💻](./Day-24_Weather_App/)   |
+| Day-25   | [Leet Code Medium 🍵👨‍💻](./Day-25_Movie_Search_App/)   |
