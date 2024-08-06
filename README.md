@@ -40,5 +40,5 @@
 | Day-21   | [Leet Code Easy 🍵👨‍💻](./Day-21_Leetcode%20Easy/)   |
 | Day-22   | [Leet Code Medium 🍵👨‍💻](./Day-22_Leetcode_Medium/)   |
 | Day-23   | [Leet Code Hard 🍵👨‍💻](./Day-23_Leetcode_Hard/)   |
-| Day-24   | [Leet Code Medium 🍵👨‍💻](./Day-24_Weather_App/)   |
-| Day-25   | [Leet Code Medium 🍵👨‍💻](./Day-25_Movie_Search_App/)   |
+| Day-24   | [Weather App 🍵👨‍💻](./Day-24_Weather_App/)   |
+| Day-25   | [Movie Search App 🍵👨‍💻](./Day-25_Movie_Search_App/)   |
